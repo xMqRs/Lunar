@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src=".github/assets/banner-lunar.png" alt="Lunar" width="720">
+<img src="assets/banner-lunar.png" alt="Lunar" width="720">
 
 </div>
 
 <div align="center">
 
 <a href="https://lunarbot.dev">
-  <img src=".github/assets/card-lunar.png" alt="Lunar: bot open source para Discord com música, economia e moderação" width="560">
+  <img src="assets/card-lunar.png" alt="Lunar: bot open source para Discord com música, economia e moderação" width="560">
 </a>
 
 </div>
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src=".github/assets/tags.png" alt="discord.js, TypeScript, Node.js, PostgreSQL, Prisma ORM, Redis, Docker" width="720">
+<img src="assets/tags.png" alt="discord.js, TypeScript, Node.js, PostgreSQL, Prisma ORM, Redis, Docker" width="720">
 
 </div>
 
@@ -24,20 +24,20 @@
 
 <h3 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/title-sobre-dark.png">
-    <img src=".github/assets/title-sobre-light.png" alt="Sobre" height="76">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-sobre-dark.png">
+    <img src="assets/title-sobre-light.png" alt="Sobre" height="76">
   </picture>
 </h3>
 
 <div align="center">
 
-<img src=".github/assets/px-note.png" alt="" height="18"> **Música**: fila, loop, volume, letras e playlists salvas por servidor.
+<img src="assets/px-note.png" alt="" height="18"> **Música**: fila, loop, volume, letras e playlists salvas por servidor.
 
-<img src=".github/assets/px-coin.png" alt="" height="18"> **Economia de estrelas**: saldo, recompensa diária, loja, ranking e minigames.
+<img src="assets/px-coin.png" alt="" height="18"> **Economia de estrelas**: saldo, recompensa diária, loja, ranking e minigames.
 
-<img src=".github/assets/px-shield.png" alt="" height="18"> **Moderação**: ban, kick, timeout, avisos com histórico e canal de logs.
+<img src="assets/px-shield.png" alt="" height="18"> **Moderação**: ban, kick, timeout, avisos com histórico e canal de logs.
 
-<img src=".github/assets/px-book.png" alt="" height="18"> **Utilidades**: lembretes, enquetes, perfil e boas-vindas personalizáveis.
+<img src="assets/px-book.png" alt="" height="18"> **Utilidades**: lembretes, enquetes, perfil e boas-vindas personalizáveis.
 
 Lunar é um bot open source para o Discord, escrito em TypeScript e organizado em módulos independentes. Cada módulo pode ser ligado ou desligado por servidor, e novos comandos entram só criando um arquivo na pasta da categoria.
 
@@ -47,8 +47,8 @@ Lunar é um bot open source para o Discord, escrito em TypeScript e organizado e
 
 <h3 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/title-estrutura-dark.png">
-    <img src=".github/assets/title-estrutura-light.png" alt="Estrutura" height="76">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-estrutura-dark.png">
+    <img src="assets/title-estrutura-light.png" alt="Estrutura" height="76">
   </picture>
 </h3>
 
@@ -82,8 +82,8 @@ lunar/
 
 <h3 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/title-como-executar-dark.png">
-    <img src=".github/assets/title-como-executar-light.png" alt="Como executar" height="76">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-como-executar-dark.png">
+    <img src="assets/title-como-executar-light.png" alt="Como executar" height="76">
   </picture>
 </h3>
 
@@ -138,8 +138,8 @@ npm run lint        # confere o estilo do código
 
 <h3 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/title-comandos-dark.png">
-    <img src=".github/assets/title-comandos-light.png" alt="Comandos" height="76">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-comandos-dark.png">
+    <img src="assets/title-comandos-light.png" alt="Comandos" height="76">
   </picture>
 </h3>
 
@@ -151,7 +151,7 @@ O prefixo padrão é `l.` e todos os comandos também existem como slash command
 
 <div align="center">
 
-<img src=".github/assets/px-note.png" alt="" height="18"> **Música**
+<img src="assets/px-note.png" alt="" height="18"> **Música**
 
 <table align="center">
   <thead>
@@ -167,7 +167,7 @@ O prefixo padrão é `l.` e todos os comandos também existem como slash command
   </tbody>
 </table>
 
-<img src=".github/assets/px-coin.png" alt="" height="18"> **Economia**
+<img src="assets/px-coin.png" alt="" height="18"> **Economia**
 
 <table align="center">
   <thead>
@@ -183,7 +183,7 @@ O prefixo padrão é `l.` e todos os comandos também existem como slash command
   </tbody>
 </table>
 
-<img src=".github/assets/px-shield.png" alt="" height="18"> **Moderação**
+<img src="assets/px-shield.png" alt="" height="18"> **Moderação**
 
 <table align="center">
   <thead>
@@ -198,7 +198,7 @@ O prefixo padrão é `l.` e todos os comandos também existem como slash command
   </tbody>
 </table>
 
-<img src=".github/assets/px-star.png" alt="" height="18"> **Utilidades e diversão**
+<img src="assets/px-star.png" alt="" height="18"> **Utilidades e diversão**
 
 <table align="center">
   <thead>
@@ -220,8 +220,8 @@ O prefixo padrão é `l.` e todos os comandos também existem como slash command
 
 <h3 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/title-contribuir-dark.png">
-    <img src=".github/assets/title-contribuir-light.png" alt="Contribuir" height="76">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-contribuir-dark.png">
+    <img src="assets/title-contribuir-light.png" alt="Contribuir" height="76">
   </picture>
 </h3>
 
@@ -263,5 +263,5 @@ Licença [MIT](LICENSE) · histórico de versões em [CHANGELOG.md](CHANGELOG.md
 ---
 
 <div align="center">
-  <img src=".github/assets/made-by-xmqr.png" alt="Made by xMqR" height="26">
+  <img src="assets/made-by-xmqr.png" alt="Made by xMqR" height="26">
 </div>
